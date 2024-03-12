@@ -17,7 +17,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head> */}
 
-<div className='items-center justify-center w-auto'>
+<div className='items-center justify-center w-auto '>
     <Slideshow/>
    </div>
 
@@ -26,6 +26,7 @@ export default function Home() {
       
 
 <div className="mt-7 p-5">
+  <h3 className="text-center font-bold text-yellow-400">عرض رمضان</h3>
   <h5 className="text-center font-bold">خدمة التوصيل مجانا </h5>
 </div>
 

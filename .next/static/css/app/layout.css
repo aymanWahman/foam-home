@@ -574,6 +574,9 @@ video {
 .m-auto {
   margin: auto;
 }
+.m-24 {
+  margin: 6rem;
+}
 .mx-16 {
   margin-left: 4rem;
   margin-right: 4rem;
@@ -582,10 +585,6 @@ video {
   margin-left: auto;
   margin-right: auto;
 }
-.my-10 {
-  margin-top: 2.5rem;
-  margin-bottom: 2.5rem;
-}
 .my-5 {
   margin-top: 1.25rem;
   margin-bottom: 1.25rem;
@@ -593,6 +592,10 @@ video {
 .my-auto {
   margin-top: auto;
   margin-bottom: auto;
+}
+.my-24 {
+  margin-top: 6rem;
+  margin-bottom: 6rem;
 }
 .mb-10 {
   margin-bottom: 2.5rem;
@@ -638,6 +641,12 @@ video {
 }
 .mt-7 {
   margin-top: 1.75rem;
+}
+.mb-24 {
+  margin-bottom: 6rem;
+}
+.mt-12 {
+  margin-top: 3rem;
 }
 .flex {
   display: flex;
@@ -860,6 +869,10 @@ video {
   --tw-text-opacity: 1;
   color: rgb(202 138 4 / var(--tw-text-opacity));
 }
+.text-yellow-400 {
+  --tw-text-opacity: 1;
+  color: rgb(250 204 21 / var(--tw-text-opacity));
+}
 .shadow-2xl {
   --tw-shadow: 0 25px 50px -12px rgb(0 0 0 / 0.25);
   --tw-shadow-colored: 0 25px 50px -12px var(--tw-shadow-color);
@@ -870,7 +883,7 @@ video {
   --tw-shadow: var(--tw-shadow-colored);
 }
 
-:root {
+/* :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
   --background-end-rgb: 255, 255, 255;
@@ -892,7 +905,7 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb));
-}
+} */
 
 .hover\:text-3xl:hover {
   font-size: 1.875rem;

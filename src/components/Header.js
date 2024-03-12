@@ -14,7 +14,7 @@ const Header = () => {
       
 
     <Image
-              src="/img/cupK.jpg"
+              src="/img/cuplogo.jpg"
               alt="Logo"
               className='rounded-full'
               width={90}

@@ -40,7 +40,7 @@ const Slideshow = () => {
       {images.map((each, index) => (
         <div key={index} className='flex justify-center md:items-center items-start w-screen relative shadow-2xl '>
 
-          <Image src={each} alt='Welcome to our world' width={350} height={300}  className= "w-screen md:w-3/12 h-96"  />
+          <Image src={each} alt='Welcome to our world' width={350} height={300}  className= "w-screen md:w-3/12 h-96 rounded-xl"  />
 
         {/* <h1 className='absolute md:top-60 top-24 inset-x-1/4 text-center z-10  text-2xl md:text-4xl bold text-white'>hgkk</h1> */}
 

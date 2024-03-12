@@ -15,7 +15,7 @@ const Page = () => {
         <div className="col-span-1 m-auto ">
           <Image
             className="rounded-xl shadow-2xl shadow-black md:w-52 h-32 md:h-56"
-            src="/img/cupK.jpg"
+            src="/img/cuplogo.jpg"
             alt="Foam Home"
             width={120}
             height={120}
@@ -83,11 +83,11 @@ const Page = () => {
 
        
 
-      <div className="flex gap-3 md:gap-5 items-center justify-center">
+      <div className="flex gap-3 md:gap-5 items-center justify-center my-24 ">
         
       <div><HiPhone size={26} color="red"/></div>
         <p className="text-sm  font-bold">
-          01000333377
+        01005596000
         </p>
     
         
@@ -98,12 +98,6 @@ const Page = () => {
 
         </div>
       
-
-      <div className="my-15">
-        <p className="text-center text-sm md:text-xl my-10">
-          اللهم ارزقنا من فضلك العظيم في الدنيا والأخرة
-        </p>
-      </div>
 
     </div>
   );
