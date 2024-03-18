@@ -1,37 +1,27 @@
-import Image from "next/image";
-import Link from "next/link";
+
+// import Image from "next/image";
+// import Link from "next/link";
 import Slideshow from '@/components/Slideshow';
 
-// import Head from "next/head";
-
-// export const metadata = {
-//   title: "Learn with me",
-// };
+export const metadata = {
+  title: "Our Products",
+};
 
 export default function Home() {
   return (
-    <div className="container mt-28">
-      {/* <Head>
-        <title>Languages Learn</title>
-        <meta name="description" content="Learn languages" />
-        <link rel="icon" href="/favicon.ico" />
-      </Head> */}
+    <div className="container mt-32">
 
 <div className='items-center justify-center w-auto '>
     <Slideshow/>
    </div>
-
-      <div className=" mt-32 mb-16">
-      
       
 
-<div className="mt-7 p-5">
-  <h3 className="text-center font-bold text-yellow-400">عرض رمضان</h3>
-  <h5 className="text-center font-bold">خدمة التوصيل مجانا </h5>
+<div className="p-5">
+  <h3 className="text-center font-bold text-4xl text-yellow-400 mb-5">عرض رمضان</h3>
+  <h5 className="text-center text-xl font-bold">خدمة التوصيل مجانا </h5>
 </div>
 
 
-      </div>
     </div>
   );
 }
