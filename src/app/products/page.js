@@ -1,5 +1,5 @@
 
-import Slideshow from '@/components/Slideshow';
+// import Slideshow from '@/components/Slideshow';
 import Image from 'next/image';
 import products from '../../components/dataProducts';
 import Link from 'next/link';
@@ -13,10 +13,10 @@ export default function Products() {
   return (
   <div className='mt-32'>
 
-   <h5 className='text-center font-bold text-l md:text-2xl mt-2'>Our Products</h5>
-   <div className='items-center justify-center w-auto'>
+   <h5 className='text-center font-bold text-l md:text-2xl mt-2'>منتجاتنا</h5>
+   {/* <div className='items-center justify-center w-auto'>
     <Slideshow/>
-   </div>
+   </div> */}
 
     <div className = "grid grid-cols-1 md:grid-cols-3  mb-3 items-center justify-between gap-1">
     {products && products.map((p) => (
@@ -35,7 +35,7 @@ export default function Products() {
   <div className='flex gap-1 mt-3 text-black text-center items-center justify-center'>  
     {/* <button className='bg-orange-600 rounded-xl p-2 m-4 w-full font-bold'>Add To Cart</button> */}
     
-<button  className='bg-yellow-600 rounded-xl p-2 m-4 w-full font-bold'><Link href={`/products/${p.id}`}>Show more</Link></button>
+<button  className='bg-yellow-600 rounded-xl p-2 m-4 w-full font-bold'><Link href={`/products/${p.id}`}>عرض التفاصيل</Link></button>
   
 
 </div>

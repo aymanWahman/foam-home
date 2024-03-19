@@ -1,3 +1,4 @@
+
 'use client'
 
 import {ArrowLeftIcon, ArrowRightIcon} from '@heroicons/react/24/solid';
@@ -15,6 +16,24 @@ const Slideshow = () => {
     "/img/plate1.jpg",
     "/img/plate2.jpg",
     "/img/plateyellow.jpg",
+    "/img/cheasecake.jpg",
+    "/img/cupPG.jpg",
+    "/img/icecream.jpg",
+    "/img/zbady.jpg",
+    "/img/mail1.jpg",
+    "/img/mail2.jpg",
+    "/img/mail2B.jpg",
+    "/img/mail2cover.jpg",
+    "/img/mail3.jpg",
+    "/img/koshrywhite.jpg",
+    "/img/cupPGm.jpg",
+    "/img/mfsalyG.jpg",
+    "/img/mostatelG.jpg",
+    "/img/rezo2.jpg",
+    "/img/plateLight.jpg",
+    "/img/sosG.jpg",
+    "/img/slat375.jpg",
+    "/img/rezo.jpg",
     
   ]
 
