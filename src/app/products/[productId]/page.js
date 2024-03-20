@@ -21,9 +21,9 @@ export default function ProductDetailsPage({ params }) {
 
   return (
     <div className="mt-32">
-      <h5 className="text-center font-bold text-l md:text-2xl mt-2">
+      {/* <h5 className="text-center font-bold text-l md:text-2xl mt-2">
         المنتج
-      </h5>
+      </h5> */}
 
       <div className="mx-16">
 

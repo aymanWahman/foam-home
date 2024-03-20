@@ -22,7 +22,7 @@ const cairo = Cairo({subsets: ['arabic'] });
 export default function RootLayout({ children }) {
   return (
     <html lang="en" className={cairo.className} >
-    <body className='bg-gray-800'>
+    <body className='bg-gray-700 text-white'>
     <ThemeProvider attribute='class' >
       <Header  />
       {children}

@@ -40,7 +40,7 @@ const DataProducts = [
   },{
     "id":7,
     "title": "تشيز كيك",
-    "image": "/img/cheasecack.jpg",
+    "image": "/img/cheasecake.jpg",
     "description": "علبة تشيز كيك",
     "price": 4.25
   },{
@@ -92,6 +92,12 @@ const DataProducts = [
     "image": "/img/plate1.jpg",
     "description": "علبة وجبة ",
     "price": 9
+  },{
+    "id":16,
+    "title": " علبة شوربة",
+    "image": "/img/koshrywhite.jpg",
+    "description": " علبة شوربة كرتون 500 ملي بالغطاء ",
+    "price": 5.5
   }
 ]
 
