@@ -28,7 +28,7 @@ const DataProducts = [
   {
     "id":5,
     "title": " علبة وجبات  ",
-    "image": "/img/mail3.jpg",
+    "image": "/img/mail2Bcover.jpg",
     "description": "علبة وجبات بالغطاء 2 و 3 عين ",
     "price": 15
   },{
