@@ -1,8 +1,8 @@
-// File: C:\foam-home\foam-home\src\app\about\page.js
-import * as entry from '../../../../src/app/about/page.js'
+// File: C:\foam-home\foam-home\src\app\products\[productId]\page.js
+import * as entry from '../../../../../src/app/products/[productId]/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
-type TEntry = typeof import('../../../../src/app/about/page.js')
+type TEntry = typeof import('../../../../../src/app/products/[productId]/page.js')
 
 // Check that the entry is a valid entry
 checkFields<Diff<{
