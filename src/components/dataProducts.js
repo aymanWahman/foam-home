@@ -20,35 +20,34 @@ const DataProducts = [
     "price": 1.5
   },{
     "id":4,
-    "title": "طبق ريزو ",
-    "image": "/img/rezo.jpg",
-    "description": " طبق قاع ريزو ميكرويف بالغطاء",
-    "price": 6.75
-  },
-  {
+    "title": "علبة صوص",
+    "image": "/img/sauceG.jpg",
+    "description": "علبة صوص بالغطاء 120 جرام ",
+    "price": 2.25
+  },{
     "id":5,
     "title": " علبة وجبات  ",
-    "image": "/img/mail2Bcover.jpg",
+    "image": "/img/meal3cover.jpg",
     "description": "علبة وجبات بالغطاء 2 و 3 عين ",
     "price": 15
   },{
     "id":6,
-    "title": "طبق شوربة",
-    "image": "/img/slata500.jpg",
-    "description": " طبق شوربة مفصلي 500 جرام  ",
-    "price": 5
+    "title": "علبة شوربة",
+    "image": "/img/koshrywhite.jpg",
+    "description": "علبة شوربة كرتون 500 ملي بالغطاء ",
+    "price": 5.5
   },{
     "id":7,
-    "title": "تشيز كيك",
-    "image": "/img/cheasecake.jpg",
-    "description": "علبة تشيز كيك",
-    "price": 4.25
+    "title": "طبق مفصلي",
+    "image": "/img/dishG.jpg",
+    "description": " طبق متعدد الاغراض 750 جرام ",
+    "price": 6.5
   },{
     "id":8,
-    "title": "علبة صوص",
-    "image": "/img/sosG.jpg",
-    "description": "علبة صوص بالغطاء 120 جرام ",
-    "price": 2.25
+    "title": "طبق ريزو ",
+    "image": "/img/rezo2.jpg",
+    "description": " طبق قاع ريزو ميكرويف بالغطاء",
+    "price": 6.75
   },{
     "id":9,
     "title": " طبق",
@@ -57,47 +56,53 @@ const DataProducts = [
     "price": 7.5 
   },{
     "id":10,
+    "title": " علبة",
+    "image": "/img/plate1.jpg",
+    "description": "علبة وجبة ",
+    "price": 9
+  },{
+    "id":11,
     "title": "علبة زبادي",
     "image": "/img/zbady.jpg",
     "description": " ps علبة زبادي 180 ملي ابيض ساخن",
     "price": 3.25
   },
   {
-    "id":11,
+    "id":12,
     "title": " علبة وجبات  ",
-    "image": "/img/plate2.jpg",
+    "image": "/img/meal3.jpg",
     "description": "علبة وجبات 2 و 3 عين ",
     "price": 8
   },{
-    "id":12,
-    "title": "طبق مفصلي",
-    "image": "/img/dishG.jpg",
-    "description": " طبق متعدد الاغراض 750 جرام ",
-    "price": 6.5
-  },{
     "id":13,
+    "title": "تشيز كيك",
+    "image": "/img/cheesecake.jpg",
+    "description": "علبة تشيز كيك",
+    "price": 4.25
+  },{
+    "id":14,
     "title": "طبق مستطيل",
     "image": "/img/mostatelG.jpg",
     "description": " طبق متعدد الاغراض 750 جرام ",
     "price": 5
   },{
-    "id":14,
+    "id":15,
     "title": "طبق اسود",
     "image": "/img/plateblack3.jpg",
     "description": " طبق متعدد الاغراض 1000 جرام ممتص للماء ",
     "price": 7.5
   },{
-    "id":15,
-    "title": " علبة",
-    "image": "/img/plate1.jpg",
-    "description": "علبة وجبة ",
-    "price": 9
-  },{
     "id":16,
-    "title": " علبة شوربة",
-    "image": "/img/koshrywhite.jpg",
-    "description": " علبة شوربة كرتون 500 ملي بالغطاء ",
-    "price": 5.5
+    "title": "طبق فروت سلاط",
+    "image": "/img/salad500.jpg",
+    "description": "طبق فروت سلاط مفصلي 500 جرام  ",
+    "price": 5
+  },{
+    "id":17,
+    "title": "علبة ايس كريم",
+    "image": "/img/icecream.jpg",
+    "description": "علبة ايس كريم 200 ملي بالغطاء",
+    "price": 2.5
   }
 ]
 

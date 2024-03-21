@@ -13,7 +13,7 @@ export default function Products() {
   return (
   <div className='mt-32'>
 
-   <h5 className='text-center font-bold text-l md:text-2xl mt-2'>منتجاتنا</h5>
+   <h5 className='text-center font-bold text-xl md:text-4xl mt-2 text-gray-400'>منتجاتنا</h5>
    {/* <div className='items-center justify-center w-auto'>
     <Slideshow/>
    </div> */}

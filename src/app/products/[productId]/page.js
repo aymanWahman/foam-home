@@ -20,7 +20,7 @@ export default function ProductDetailsPage({ params }) {
   }
 
   return (
-    <div className="mt-32">
+    <div className="mt-44">
       {/* <h5 className="text-center font-bold text-l md:text-2xl mt-2">
         المنتج
       </h5> */}
@@ -50,7 +50,8 @@ export default function ProductDetailsPage({ params }) {
         </div>
 
         </div>
-        <div className="flex gap-1 mt-3 text-black text-center items-center justify-center">
+
+        <div className="flex gap-1 my-6 text-black text-center items-center justify-center">
           <button className="bg-yellow-600 rounded-xl p-2 m-4 w-full font-bold">
             <Link href={`/products`}>الصفحة الرئيسية</Link>
           </button>

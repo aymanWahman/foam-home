@@ -9,12 +9,13 @@ const Footer = () => {
       
   <div className=" flex gap-2 md:gap-6  justify-center items-center text-xs md:text-xl p-1">
   <p className="text-blue-400 font-bold "> Tel: +201005596000</p>  
+  <p>اتصل الأن</p>
   {/* <p className="text-blue-400 font-bold "> Email: aymanwahman80@gmail.com</p>   */}
     </div>
     
     </div>
 
-    <div><p className='text-xs text-center text-gray-300'>Designed and developed by Ayman Aly</p></div>
+    <div><p className='text-xs text-center text-gray-500'>Designed & developed by Ayman Aly</p></div>
 
 
     </div>
