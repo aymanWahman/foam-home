@@ -33,7 +33,7 @@ const DataProducts = [
   },{
     "id":6,
     "title": "علبة شوربة",
-    "image": "/img/koshrywhite.jpg",
+    "image": "/img/shorba.jpg",
     "description": "علبة شوربة كرتون 500 ملي بالغطاء ",
     "price": 5.5
   },{
@@ -90,13 +90,14 @@ const DataProducts = [
     "image": "/img/salad500.jpg",
     "description": "طبق فروت سلاط مفصلي 500 جرام  ",
     "price": 5
-  },{
-    "id":16,
-    "title": "علبة ايس كريم",
-    "image": "/img/icecream.jpg",
-    "description": "علبة ايس كريم 200 ملي بالغطاء",
-    "price": 2.5
-  }
+  },
+  // {
+  //   "id":16,
+  //   "title": "علبة ايس كريم",
+  //   "image": "/img/icecream.jpg",
+  //   "description": "علبة ايس كريم 200 ملي بالغطاء",
+  //   "price": 2.5
+  // }
 ]
 
 export default DataProducts;
