@@ -27,9 +27,9 @@ const DataProducts = [
   },{
     "id":5,
     "title": " علبة وجبات  ",
-    "image": "/img/meal3cover.jpg",
+    "image": "/img/meal3.jpg",
     "description": "علبة وجبات بالغطاء 2 و 3 عين ",
-    "price": 15
+    "price": 8
   },{
     "id":6,
     "title": "علبة شوربة",
@@ -66,39 +66,32 @@ const DataProducts = [
     "image": "/img/zbady.jpg",
     "description": " ps علبة زبادي 180 ملي ابيض ساخن",
     "price": 3.25
-  },
-  {
-    "id":12,
-    "title": " علبة وجبات  ",
-    "image": "/img/meal3.jpg",
-    "description": "علبة وجبات 2 و 3 عين ",
-    "price": 8
   },{
-    "id":13,
+    "id":12,
     "title": "تشيز كيك",
     "image": "/img/cheesecake.jpg",
     "description": "علبة تشيز كيك",
     "price": 4.25
   },{
-    "id":14,
+    "id":13,
     "title": "طبق مستطيل",
     "image": "/img/mostatelG.jpg",
     "description": " طبق متعدد الاغراض 750 جرام ",
     "price": 5
   },{
-    "id":15,
+    "id":14,
     "title": "طبق اسود",
     "image": "/img/plateblack3.jpg",
     "description": " طبق متعدد الاغراض 1000 جرام ممتص للماء ",
     "price": 7.5
   },{
-    "id":16,
+    "id":15,
     "title": "طبق فروت سلاط",
     "image": "/img/salad500.jpg",
     "description": "طبق فروت سلاط مفصلي 500 جرام  ",
     "price": 5
   },{
-    "id":17,
+    "id":16,
     "title": "علبة ايس كريم",
     "image": "/img/icecream.jpg",
     "description": "علبة ايس كريم 200 ملي بالغطاء",
