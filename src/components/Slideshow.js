@@ -10,8 +10,8 @@ const Slideshow = () => {
   const images = [
     "/img/cupK.jpg",
     "/img/cupP.jpg",
-    "/img/mfsaly.jpg",
-    "/img/mostatel750.jpg",
+    "/img/mfsalyG.jpg",
+    "/img/mostatel1000.jpg",
     "/img/mostatelG.jpg",
     "/img/plate1.jpg",
     "/img/plate2.jpg",
@@ -32,7 +32,7 @@ const Slideshow = () => {
     "/img/rezo2.jpg",
     "/img/plateLight.jpg",
     "/img/sosG.jpg",
-    "/img/slat375.jpg",
+    "/img/salad375.jpg",
     "/img/rezo.jpg",
     
   ]
