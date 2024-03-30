@@ -11,7 +11,7 @@ export const metadata = {
 
 export default function Home() {
   return (
-    <div className="container mt-32">
+    <div className="container items-center justify-center mt-32">
 
 <div className='items-center justify-center w-auto '>
     <Slideshow/>
@@ -21,7 +21,7 @@ export default function Home() {
 <div className="p-5">
   <h3 className="text-center font-bold text-4xl text-yellow-400 mb-5">عروض رمضان</h3>
 
-<div>
+<div className='items-center justify-center'>
   <h3 className="text-center font-bold text-4xl text-gray-400 mb-5">كرتونة العيلة</h3>
   <div className='grid md:grid-cols-5'>
 
@@ -91,10 +91,13 @@ export default function Home() {
 
   </div>
   <h5 className="text-center font-bold text-2xl  m-5">كرتونة العيلة بسعر <span className='text-red-500 m-2'>500</span> جنيه</h5>
+    <h5 className="text-green-200 text-center text-xl font-bold">خدمة التوصيل مجانا </h5>
+
 </div>
 
-  <h5 className="text-center text-xl font-bold">خدمة التوصيل مجانا </h5>
-  <button  className='bg-yellow-600 rounded-xl p-2 m-4 w-full font-bold'><Link href="/products">المنتجات</Link></button>
+ 
+  <button  className='bg-yellow-600 rounded-xl p-3 mt-4 w-full font-bold'><Link href="/products">المنتجات</Link></button>
+
 
 </div>
 
