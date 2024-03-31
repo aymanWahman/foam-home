@@ -22,8 +22,8 @@ export default function Home() {
   <h3 className="text-center font-bold text-4xl text-yellow-400 mb-5">عروض رمضان</h3>
 
 <div className='items-center justify-center'>
-  <h3 className="text-center font-bold text-4xl text-gray-400 mb-5">كرتونة العيلة</h3>
-  <div className='grid md:grid-cols-5'>
+  <h3 className="text-center font-bold text-4xl text-gray-400 mb-5">سرفيس العزومة</h3>
+  <div className='grid md:grid-cols-3'>
 
     <div className='m-4 col-span-1'>
     <Image
@@ -53,13 +53,26 @@ export default function Home() {
     <div className='m-4 col-span-1'>
     <Image
       className="rounded shadow-2xl shadow-black p-2 mx-auto md:my-3  h-52"
-      src="/img/mostatel1000.jpg"
+      src="/img/mostatelG.jpg"
       alt="علبة مستطيل"
       width={350}
       height={250}
       priority
     />
         <h4 className="text-center font-bold text-2xl text-gray-400 m-5">عدد 20 علبة مستطيل بالغطاء</h4>
+
+    </div>
+
+    <div className='m-4 col-span-1'>
+    <Image
+      className="rounded shadow-2xl shadow-black p-2 mx-auto md:my-3  h-52"
+      src="/img/meal2cover.jpg"
+      alt="علبة وجبة بالغطاء"
+      width={350}
+      height={250}
+      priority
+    />
+        <h4 className="text-center font-bold text-2xl text-gray-400 m-5">عدد 20 علبة وجبة </h4>
 
     </div>
 
