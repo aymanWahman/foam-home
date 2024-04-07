@@ -44,17 +44,17 @@ const DataProducts = [
     "description": " طبق قاع ريزو ميكرويف بالغطاء",
     "price": 5.5
   },
-  // {
-  //   "id":8,
-  //   "title": "طبق فروت سلاط",
-  //   "image": "/img/salad500.jpg",
-  //   "description": "طبق فروت سلاط مفصلي 500 جرام  ",
-  //   "price": 5
-  // },
+  {
+    "id":8,
+    "title": "رول استريتش ",
+    "image": "/img/appleBlue.jpg",
+    "description": "رول استريتش Apple blue",
+    "price": 500
+  },
   {
     "id":9,
     "title": "علبة ايس كريم",
-    "image": "/img/icecream.jpg",
+    "image": "/img/ice.jpg",
     "description": "علبة ايس كريم 200 ملي بالغطاء",
     "price": 2.5
   }
