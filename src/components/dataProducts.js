@@ -51,13 +51,13 @@ const DataProducts = [
     "description": "رول استريتش Apple blue",
     "price": 500
   },
-  {
-    "id":9,
-    "title": "علبة ايس كريم",
-    "image": "/img/ice.jpg",
-    "description": "علبة ايس كريم 200 ملي بالغطاء",
-    "price": 2.5
-  }
+  // {
+  //   "id":9,
+  //   "title": "علبة ايس كريم",
+  //   "image": "/img/ice.jpg",
+  //   "description": "علبة ايس كريم 200 ملي بالغطاء",
+  //   "price": 2.5
+  // }
 ]
 
 export default DataProducts;
