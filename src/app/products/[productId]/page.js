@@ -51,8 +51,8 @@ export default function ProductDetailsPage({ params }) {
 
         </div>
 
-        <div className="flex gap-1 my-6 text-black text-center items-center justify-center">
-          <button className="bg-yellow-600 rounded-xl p-2 m-4 w-full font-bold">
+        <div className="flex gap-1 my-6 text-black font-serif text-2xl text-center items-center justify-center">
+          <button className="bg-yellow-700 rounded-xl p-4 m-4 w-full font-bold">
             <Link href={`/products`}>الصفحة الرئيسية</Link>
           </button>
         </div>

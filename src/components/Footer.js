@@ -8,7 +8,7 @@ const Footer = () => {
         <div className='flex gap-x-2 md:gap-x-6 text-sm md:text-xl p-5 justify-center  items-center'>
       
   <div className=" flex gap-2 md:gap-6  justify-center items-center text-xs md:text-xl p-1">
-  <p className="text-blue-400 font-bold "> Tel: +201005596000</p>  
+  <p className="text-blue-400 font-bold "> Tel: +201080644564</p>  
   <p>اتصل الأن</p>
   {/* <p className="text-blue-400 font-bold "> Email: aymanwahman80@gmail.com</p>   */}
     </div>

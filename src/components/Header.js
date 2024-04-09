@@ -11,17 +11,17 @@ const Header = () => {
     <div className='flex fixed top-0 w-full p-3 z-50 justify-between rounded-b-2xl border border-gray-600 shadow-2xl '>
       
     <div className='flex bg-transparent items-center gap-2 md:gap-3 '>
-      
+
 
     <Image
-              src="/img/cuplogo.jpg"
+              src="/img/foamologo.jpg"
               alt="Logo"
               className='rounded-full'
               width={90}
               height={20}
               priority
             />
-        <Link href="/"><h1 className='font-extrabold text-2xl hover:text-3xl md:text-6xl hover:md:text-7xl text-yellow-600 hover:text-gray-400 font-serif '>فوم هوم</h1></Link>
+        <Link href="/"><h1 className='font-extrabold text-2xl hover:text-3xl md:text-6xl hover:md:text-7xl text-yellow-600 hover:text-gray-400 font-serif '>فومُ هوم</h1></Link>
     </div>
 
     <ul className='flex mt-1  md:mr-3 gap-4 md:gap-12 items-center text-gray-400 '>

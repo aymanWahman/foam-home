@@ -4,6 +4,8 @@ import Image from "next/image";
 // import { ArrowRightIcon} from '@heroicons/react/24/solid';
 import { HiPhone } from "react-icons/hi";
 import { IoIosMail } from "react-icons/io";
+// import Slideshow from '@/components/Slideshow';
+
 
 export const metadata = {
   title: "About us",
@@ -14,9 +16,11 @@ const Page = () => {
     <div className="mt-36 md:w-3/4  text-center mx-auto  ">
       <div className="grid grid-cols-3 gap-3 text-center justify-center item-center mb-10 m-3 border rounded-2xl p-5 ">
         <div className="col-span-1 m-auto ">
+          
+          {/* <Slideshow/> */}
           <Image
             className="rounded-xl shadow-2xl shadow-black md:w-52 h-32 md:h-56"
-            src="/img/cuplogo.jpg"
+            src="/img/foamologo.jpg"
             alt="Foam Home"
             width={120}
             height={120}
@@ -30,7 +34,7 @@ const Page = () => {
           </h2>
           <p className="mt-4 text-xl md:text-2xl font-extrabold">مع </p>
           <h3 className="mt-4 text-gray-500 text-2xl md:text-4xl font-bold">
-          فوم هوم
+          فومُ هوم
           </h3>
         </div>
       </div>
@@ -94,7 +98,7 @@ const Page = () => {
         
         <div><IoIosMail size={26} color="#7598ff"/></div>
         <p className="text-xs font-bold">
-          aymanwahman@gmail.com
+          eslamfarg19@gmail.com
         </p>
 
         </div>
