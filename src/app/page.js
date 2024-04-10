@@ -145,7 +145,7 @@ export default function Home() {
 </div>
 
  
-  <button  className='bg-yellow-700 rounded-xl p-3 mt-4 w-full font-bold text-2xl'><Link href="/products">المنتجات</Link></button>
+  <button  className='bg-yellow-700 rounded-xl p-3 mt-4 w-full font-bold text-2xl text-black'><Link href="/products">المنتجات</Link></button>
 
 
 </div>
