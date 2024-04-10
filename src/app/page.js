@@ -30,7 +30,7 @@ export default function Home() {
       height={250}
       priority
     />
-    <h4 className="text-center font-bold text-xl md:text-2xl text-gray-400 m-5">عدد 50 كوب قهوة</h4>
+    <h4 className="text-center font-bold text-xl md:text-2xl text-gray-400 m-5"> عدد 50 كوب قهوة 7 أونز</h4>
     </div>
 
     <div className='m-4 col-span-1'>
@@ -42,7 +42,7 @@ export default function Home() {
       height={250}
       priority
     />
-    <h4 className="text-center font-bold text-xl md:text-2xl text-gray-400 m-5">عدد 50 كوب عصير</h4>
+    <h4 className="text-center font-bold text-xl md:text-2xl text-gray-400 m-5">عدد 50 كوب عصير بالغطاء 12 أونز</h4>
     </div>
 
     <div className='m-4 col-span-1'>
@@ -54,7 +54,7 @@ export default function Home() {
       height={250}
       priority
     />
-    <h4 className="text-center font-bold text-xl md:text-2xl text-gray-400 m-5">عدد 50 كوب مياه</h4>
+    <h4 className="text-center font-bold text-xl md:text-2xl text-gray-400 m-5">عدد 50 كوب مياه 250 ملي</h4>
     </div>
 
 
@@ -139,7 +139,7 @@ export default function Home() {
     </div> */}
 
   </div>
-  <h5 className="text-center font-bold text-2xl  m-5"> عرض الجملة بسعر<span className='text-red-500 m-2'>230</span> جنيه</h5>
+  <h5 className="text-center font-bold text-2xl  m-5"> عرض الجملة بسعر<span className='text-red-500 m-2'>222</span> جنيه</h5>
     <h5 className="text-green-200 text-center text-xl font-bold mb-4">خدمة التوصيل مجانا </h5>
 
 </div>
