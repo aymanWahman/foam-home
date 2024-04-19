@@ -144,6 +144,23 @@ export default function Home() {
 
 </div>
 
+<div className='items-center justify-center border border-yellow-700 shadow-2xl shadow-black mt-4'>
+<div className='m-4 '>
+    <Image
+      className="rounded shadow-2xl shadow-black p-2 mx-auto md:my-3  h-52"
+      src="/img/appleb.jpg"
+      alt="رول استريتش "
+      width={350}
+      height={250}
+      priority
+    />
+    <h4 className="text-center font-bold text-xl md:text-2xl text-gray-400 m-5"> اشتري عدد 10 كراتين وأحصل علي واحدة مجانا</h4>
+    <h5 className="text-center font-bold text-2xl  m-5"> الكرتونة مقاس 30 وزن 4.5 كيلو بسعر<span className='text-red-500 m-2'>550</span> جنيه</h5>
+
+    </div>
+    <h5 className="text-green-200 text-center text-xl font-bold mb-4">خدمة التوصيل مجانا </h5>
+</div>
+
  
   <button  className='bg-yellow-700 rounded-xl p-3 mt-4 w-full font-bold text-2xl text-black'><Link href="/products">المنتجات</Link></button>
 

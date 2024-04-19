@@ -55,7 +55,7 @@ const DataProducts = [
     "title": " Apple blue رول استريتش ",
     "image": "/img/appleb.jpg",
     "description": "رول استريتش مقاس 30 وزن 4.5 كيلو  Apple blue ",
-    "price": 500
+    "price": 550
   },
   {
     "id":10,
