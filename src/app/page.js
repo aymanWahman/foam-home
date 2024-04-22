@@ -139,7 +139,7 @@ export default function Home() {
     </div> */}
 
   </div>
-  <h5 className="text-center font-bold text-2xl  m-5"> عرض الجملة بسعر<span className='text-red-500 m-2'>222</span> جنيه</h5>
+  <h5 className="text-center font-bold text-2xl  m-5"> عرض الجملة بسعر<span className='text-red-500 m-2'>250</span> جنيه</h5>
     <h5 className="text-green-200 text-center text-xl font-bold mb-4">خدمة التوصيل مجانا </h5>
 
 </div>
