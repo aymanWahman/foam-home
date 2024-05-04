@@ -16,7 +16,7 @@ const DataProducts = [
   },{
     "id":3,
     "title": "  كوباية مياه",
-    "image": "/img/cupP.jpg",
+    "image": "/img/water.jpeg",
     "description": "  كوب مياه شفاف 250 ملي وأقل كمية 50 كوب ",
     "price": 0.75
   },{
@@ -29,7 +29,7 @@ const DataProducts = [
     "id":5,
     "title": " علبة وجبات  ",
     "image": "/img/meal2.jpg",
-    "description": "علبة وجبات بالغطاء 1 و 2 عين ",
+    "description": "علبة وجبات بالغطاء 2 عين ",
     "price": 7.5
   },{
     "id":6,
@@ -46,7 +46,7 @@ const DataProducts = [
   },{
     "id":8,
     "title": "طبق ريزو ",
-    "image": "/img/rezo2.jpg",
+    "image": "/img/rezow.jpeg",
     "description": " طبق قاع ريزو ميكرويف بالغطاء",
     "price": 4.25
   },
@@ -70,14 +70,49 @@ const DataProducts = [
     "image": "/img/spoon.jpg",
     "description": "ملعقة اسود خامة ممتازة وأقل كمية 50 ملعقة",
     "price": 0.75
+  },
+  {
+    "id":12,
+    "title": "شوكة",
+    "image": "/img/fork.jpg",
+    "description": "شوكة اسود خامة ممتازة وأقل كمية 50 شوكة",
+    "price": 0.75
+  },
+  {
+    "id":13,
+    "title": "علبة ايس كريم",
+    "image": "/img/ice.jpg",
+    "description": "علبة ايس كريم 200 ملي بالغطاء",
+    "price": 2.25
+  },
+  {
+    "id":14,
+    "title": "علبة مربع مفصلي",
+    "image": "/img/morbaa4.jpeg",
+    "description": "علبة مربع مفصلي 3 أونز",
+    "price": 2.25
+  },
+  {
+    "id":15,
+    "title": "علبة مربع مفصلي ",
+    "image": "/img/mor.jpeg",
+    "description": "علبة مربع مفصلي 4 أونز",
+    "price": 2.25
+  },
+  {
+    "id":16,
+    "title": "علبة سلطة",
+    "image": "/img/sauceR.jpg",
+    "description": "علبة سلطة دائري 80 ملي  ",
+    "price": 2.25
+  },
+  {
+    "id":17,
+    "title": "علبة وجبات ",
+    "image": "/img/m.jpeg",
+    "description": "علبة وجبات بالغطاء واحد عين",
+    "price": 7
   }
-  // {
-  //   "id":11,
-  //   "title": "علبة ايس كريم",
-  //   "image": "/img/ice.jpg",
-  //   "description": "علبة ايس كريم 200 ملي بالغطاء",
-  //   "price": 2.25
-  // }
 ]
 
 export default DataProducts;
